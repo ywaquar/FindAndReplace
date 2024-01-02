@@ -2,7 +2,10 @@
 Find And Replace Web App
 
 # Description
-This Find And Replace Web App was developed to address a specific data correction challenge within our organization. As a Data Analyst, I often encounter data processed by a machine learning web app with errors that need correction. The traditional manual approach of finding and replacing in Google Sheets was time-consuming and frustrating. To streamline this process, I created this web app, saving valuable time and resources for our company.
+This Find And Replace Web App was developed to address a specific data correction challenge within our organization. 
+As a Data Analyst, I often encounter data processed by a machine learning web app with errors that need correction. 
+The traditional manual approach of finding and replacing in Google Sheets was time-consuming and frustrating. 
+To streamline this process, I created this web app, saving valuable time and resources for our company.
 
 # Problem Statement
 Role: Data Analyst
