@@ -9,7 +9,7 @@ To streamline this process, I created this web app, saving valuable time and res
 
 # Problem Statement
 Role: Data Analyst
-Challenge: Correcting errors in data processed by a machine learning web app.
+Challenge: Correcting errors in data processed by a machine learning web app. \n
 Previous Approach: Manual find and replace in Google Sheets.
 Frustration: Time-consuming and inefficient.
 Solution: Developed Find And Replace Web App.
