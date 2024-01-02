@@ -1,0 +1,10 @@
+google-auth google-auth-oauthlib google-auth-httplib2
+gspread
+pandas
+jupyter
+openpyxl
+
+Flask==1.1.4
+Werkzeug==0.16.1
+Flask-SocketIO==5.0.1
+# Add other dependencies as needed
