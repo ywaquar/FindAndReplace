@@ -44,9 +44,6 @@ Save the corrected data to an Excel file.
 # Example Usage
 Check the example usage section in the provided code for a quick guide on connecting to Google Sheets and performing find-and-replace operations.
 
-# Acknowledgments
-Special thanks to the Google Sheets API and relevant libraries for making this project possible.
-
 # Support
 For any issues or inquiries, please open a GitHub issue or contact ywaquar@gmail.com
 
